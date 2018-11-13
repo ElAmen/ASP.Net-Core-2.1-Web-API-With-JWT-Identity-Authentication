@@ -1,0 +1,11 @@
+Web API with ASP.Net 2.1 and Identity and JWT Auth + Cors for Angular 6 & 7 web app
+Built from video
+Token based authentication (JWT) in asp.net core 2.0 WebAPI.mp4
+https://www.youtube.com/watch?v=vEU9SDmIvVY
+
+Functionalities
+JWT
+ASP.net 2.2
+AuthController with
+Register Action
+Login action
